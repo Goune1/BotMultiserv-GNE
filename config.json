@@ -1,0 +1,25 @@
+{
+	"riotApiKey": "",
+    "965205749489877012": {
+	   "prefix": "+",
+        "statut-logs": true,
+        "statut-bienvenue": true,
+        "statut-suggest": true,
+        "role-bienvenue": true,
+        "id_logs": "965387177787789342",
+        "id_bienvenue": "965205749489877015",
+        "role_bienvenue": "965333094339059803",
+	   "id_suggest": "965387177787789342"
+    },
+    "795354563753279538": {
+	   "prefix": "+",
+        "statut-logs": false,
+        "statut-bienvenue": false,
+        "role-bienvenue": false,
+        "statut-suggest": false,
+        "id_logs": "",
+        "role_bienvenue": "",
+        "id_bienvenue": "",
+        "id_suggest": ""
+    }
+}
